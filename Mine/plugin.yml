@@ -1,0 +1,5 @@
+name: Mine
+main: tream\Mine
+author: tream
+version: Beta-1
+api: [4.0.0]
